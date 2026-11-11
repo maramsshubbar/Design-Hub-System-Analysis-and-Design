@@ -1,0 +1,23 @@
+C:\Users\Custom_PC_bh\Desktop\proejc SAD UI\new shit\First project sad shit\First project sad shit\obj\Debug\net8.0-windows\First_project_sad_shit.DashboardForm.resources
+C:\Users\Custom_PC_bh\Desktop\proejc SAD UI\new shit\First project sad shit\First project sad shit\obj\Debug\net8.0-windows\First_project_sad_shit.LoginForm.resources
+C:\Users\Custom_PC_bh\Desktop\proejc SAD UI\new shit\First project sad shit\First project sad shit\obj\Debug\net8.0-windows\First_project_sad_shit.Properties.Resources.resources
+C:\Users\Custom_PC_bh\Desktop\proejc SAD UI\new shit\First project sad shit\First project sad shit\obj\Debug\net8.0-windows\First_project_sad_shit.RegisterForm.resources
+C:\Users\Custom_PC_bh\Desktop\proejc SAD UI\new shit\First project sad shit\First project sad shit\obj\Debug\net8.0-windows\First project sad shit.csproj.GenerateResource.cache
+C:\Users\Custom_PC_bh\Desktop\proejc SAD UI\new shit\First project sad shit\First project sad shit\obj\Debug\net8.0-windows\First project sad shit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Custom_PC_bh\Desktop\proejc SAD UI\new shit\First project sad shit\First project sad shit\obj\Debug\net8.0-windows\First project sad shit.AssemblyInfoInputs.cache
+C:\Users\Custom_PC_bh\Desktop\proejc SAD UI\new shit\First project sad shit\First project sad shit\obj\Debug\net8.0-windows\First project sad shit.AssemblyInfo.cs
+C:\Users\Custom_PC_bh\Desktop\proejc SAD UI\new shit\First project sad shit\First project sad shit\obj\Debug\net8.0-windows\First project sad shit.csproj.CoreCompileInputs.cache
+C:\Users\Custom_PC_bh\Desktop\proejc SAD UI\new shit\First project sad shit\First project sad shit\bin\Debug\net8.0-windows\First project sad shit.exe
+C:\Users\Custom_PC_bh\Desktop\proejc SAD UI\new shit\First project sad shit\First project sad shit\bin\Debug\net8.0-windows\First project sad shit.deps.json
+C:\Users\Custom_PC_bh\Desktop\proejc SAD UI\new shit\First project sad shit\First project sad shit\bin\Debug\net8.0-windows\First project sad shit.runtimeconfig.json
+C:\Users\Custom_PC_bh\Desktop\proejc SAD UI\new shit\First project sad shit\First project sad shit\bin\Debug\net8.0-windows\First project sad shit.dll
+C:\Users\Custom_PC_bh\Desktop\proejc SAD UI\new shit\First project sad shit\First project sad shit\bin\Debug\net8.0-windows\First project sad shit.pdb
+C:\Users\Custom_PC_bh\Desktop\proejc SAD UI\new shit\First project sad shit\First project sad shit\obj\Debug\net8.0-windows\First project sad shit.dll
+C:\Users\Custom_PC_bh\Desktop\proejc SAD UI\new shit\First project sad shit\First project sad shit\obj\Debug\net8.0-windows\refint\First project sad shit.dll
+C:\Users\Custom_PC_bh\Desktop\proejc SAD UI\new shit\First project sad shit\First project sad shit\obj\Debug\net8.0-windows\First project sad shit.pdb
+C:\Users\Custom_PC_bh\Desktop\proejc SAD UI\new shit\First project sad shit\First project sad shit\obj\Debug\net8.0-windows\First project sad shit.genruntimeconfig.cache
+C:\Users\Custom_PC_bh\Desktop\proejc SAD UI\new shit\First project sad shit\First project sad shit\obj\Debug\net8.0-windows\ref\First project sad shit.dll
+C:\Users\Custom_PC_bh\Desktop\proejc SAD UI\new shit\First project sad shit\First project sad shit\obj\Debug\net8.0-windows\First_project_sad_shit.CreateProject.resources
+C:\Users\Custom_PC_bh\Desktop\proejc SAD UI\new shit\First project sad shit\First project sad shit\obj\Debug\net8.0-windows\First_project_sad_shit.TaskAssignmentForm.resources
+C:\Users\Custom_PC_bh\Desktop\proejc SAD UI\new shit\First project sad shit\First project sad shit\obj\Debug\net8.0-windows\First_project_sad_shit.RequestDonation.resources
+C:\Users\Custom_PC_bh\Desktop\proejc SAD UI\new shit\First project sad shit\First project sad shit\obj\Debug\net8.0-windows\First_project_sad_shit.RequestVolunteersForm.resources
